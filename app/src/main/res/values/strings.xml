@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVITesting</string>
+    <string name="save">Save</string>
+    <string name="userName">User Name</string>
+</resources>
